@@ -1,0 +1,7 @@
+PWD /home/cong/Desktop/code/study/cse_620/cse_620_project_3
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/cong/Desktop/code/study/cse_620/cse_620_project_3/report.tex
+OUTPUT report.log
