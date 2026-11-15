@@ -32,7 +32,7 @@ import numpy as np
 from niching_ga_experiments import COST_FUNCS, PEAKS, PM_VALUES, PC_VALUES
 
 RESULTS = "results/experiments.json"
-FIGDIR = "figures"
+FIGDIR = os.path.join("report", "figures")
 
 METHOD_LABELS = {
     "standard": "Standard GA",
